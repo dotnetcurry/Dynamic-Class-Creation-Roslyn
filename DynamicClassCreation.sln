@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicClassCreation", "DynamicClassCreation\DynamicClassCreation.csproj", "{16030B74-18B2-49DF-ADC2-9F61BBC53D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerformanceMeasurementLibrary", "PerformanceMeasurementLibrary\PerformanceMeasurementLibrary.csproj", "{504D517D-7B6E-44B2-8BDA-E3EB6AD15A9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16030B74-18B2-49DF-ADC2-9F61BBC53D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16030B74-18B2-49DF-ADC2-9F61BBC53D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16030B74-18B2-49DF-ADC2-9F61BBC53D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16030B74-18B2-49DF-ADC2-9F61BBC53D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{504D517D-7B6E-44B2-8BDA-E3EB6AD15A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504D517D-7B6E-44B2-8BDA-E3EB6AD15A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504D517D-7B6E-44B2-8BDA-E3EB6AD15A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504D517D-7B6E-44B2-8BDA-E3EB6AD15A9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9F1D898-23A0-4076-A31B-00F1E230E5EC}
+	EndGlobalSection
+EndGlobal
